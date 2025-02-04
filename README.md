@@ -11,3 +11,4 @@ This repository reflects the development and production of the back-end logic fo
 - Implement a cache for profile settings
 - Implement energy conservation tips based on uptime
 - Automation scheduling (More details TBD)
+- Add IP address attribute to each device
